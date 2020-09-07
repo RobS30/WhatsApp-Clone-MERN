@@ -9,9 +9,11 @@ Technologies Used:
 - React
 - Node
 - Mongoose
-- Pushit (to make our mongo database real time)
-- Firebase (to host front end)
-- Heroku (to host back end)
+- Pusher (to make our mongo database real time)
+- Firebase (frontend)
+    - authentication
+    - hosting
+- Heroku (backend)
 
 
 npm init
