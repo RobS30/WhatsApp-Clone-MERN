@@ -1,5 +1,5 @@
 const firebaseConfig = {
-    apiKey: 
+    apiKey: ;
     authDomain: "whatsapp-mern-99300.firebaseapp.com",
     databaseURL: "https://whatsapp-mern-99300.firebaseio.com",
     projectId: "whatsapp-mern-99300",
