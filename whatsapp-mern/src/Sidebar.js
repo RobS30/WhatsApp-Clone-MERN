@@ -32,6 +32,13 @@ function Sidebar() {
                     <SearchOutlined />
                     <input placeholder="Search or start new chat" type="text" />
                 </div>
+
+                <div className="sidebar_chats">
+                    <SidebarChat />
+                    <SidebarChat />
+                    <SidebarChat />
+                </div>
+
             </div>
         </div>
     )
