@@ -40,7 +40,6 @@ function Sidebar() {
                     <SidebarChat />
                     <SidebarChat />
                 </div>
-
             </div>
     );
 }
